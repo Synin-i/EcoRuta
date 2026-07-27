@@ -220,22 +220,9 @@ namespace EcoRutaData
                     if (distanciaestimada > umbralEcoAmigable)
                     {
                         Console.ForegroundColor = ConsoleColor.Red;
-                        Console.WriteLine($"\n  [!] ADVERTENCIA: Pasando el umbral límite eco-amigable ({umbralEcoAmigable} Km).");
-                        Console.WriteLine("  Se sugiere replantear la ruta para minimizar la huella de carbono.");
+                        Console.WriteLine($"\n  [!] ERROR: La ruta excede el umbral límite eco-amigable ({umbralEcoAmigable} Km).");
+                        Console.WriteLine("  Por favor, reingrese una distancia permitida o contacte con el administrador.");
                         Console.ResetColor();
-
-                        bool forzarDistancia;
-
-                        Validadores.Leer("  ¿Desea mantener esta distancia de todos modos? (S/N): ", out forzarDistancia);
-
-                        if (forzarDistancia)
-                        {
-                            distanciaValida = true;
-                        }
-                        else
-                        {
-                            Console.WriteLine("  Reingrese una distancia más corta.");
-                        }
                     }
                     else
                     {

@@ -16,3 +16,37 @@ ID,Zona,Capacidad (KG),Frecuencia,Activo
 15,Obrajes,1200,2,True
 16,Obrajes,2000,3,False
 17,San Jorge,2500,3,False
+18,Miraflores,800,1,True
+19,Sopocachi,1700,3,True
+20,Sopocachi,900,1,True
+21,Sopocachi,2200,4,True
+22,Sopocachi,1300,2,False
+23,Sopocachi,1800,5,True
+24,San Pedro,700,2,True
+25,San Pedro,950,3,True
+26,San Pedro,1600,4,True
+27,San Pedro,2100,5,False
+28,San Pedro,1250,2,True
+29,Miraflores,1400,2,True
+30,Miraflores,1700,3,True
+31,Miraflores,1000,1,False
+32,Miraflores,2300,5,True
+33,Miraflores,1800,4,True
+34,San Jorge,1300,2,True
+35,San Jorge,1700,3,True
+36,San Jorge,1900,4,True
+37,San Jorge,2100,5,False
+38,San Jorge,1600,2,True
+39,Obrajes,900,1,True
+40,Obrajes,1400,2,True
+41,Obrajes,1700,3,True
+42,Obrajes,2200,5,False
+43,Obrajes,1800,4,True
+44,Sopocachi,2400,6,True
+45,San Pedro,1900,6,True
+46,Miraflores,2000,6,True
+47,San Jorge,2400,6,True
+48,Obrajes,2500,6,True
+49,Sopocachi,800,1,False
+50,San Pedro,1000,2,True
+51,Sopocachi,300,1,True
