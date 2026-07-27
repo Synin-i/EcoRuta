@@ -1,0 +1,18 @@
+ID,Zona,Capacidad (KG),Frecuencia,Activo
+1,Sopocachi,1500,2,True
+2,Sopocachi,1000,2,True
+3,Sopocachi,2000,3,True
+4,San Pedro,600,1,True
+5,San Pedro,1200,1,True
+6,San Pedro,1500,1,True
+7,Miraflores,990,2,True
+8,Miraflores,1500,4,True
+9,Miraflores,1100,5,True
+10,San Jorge,900,5,True
+11,San Jorge,1100,5,True
+12,San Jorge,1200,6,True
+13,Obrajes,1500,2,False
+14,Obrajes,1100,1,True
+15,Obrajes,1200,2,True
+16,Obrajes,2000,3,False
+17,San Jorge,2500,3,False

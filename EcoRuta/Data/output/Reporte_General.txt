@@ -1,0 +1,24 @@
+==================================================
+             REPORTE ESTADISTICO GENERAL          
+==================================================
+Fecha de Emisión: 27/07/2026 12:41:20 a. m.
+
+--- INFRAESTRUCTURA DE RECOLECCION ---
+Puntos Registrados       : 17
+Puntos Activos           : 14
+Capacidad Max. Ciudad    : 22890 Kg
+
+--- LOGISTICA DE LA SEMANA ---
+Zonas Unicas Cubiertas   : 0 de 5 zonas posibles
+Total de Visitas (Dias)  : 0 visitas realizadas
+
+--- ESTADISTICAS DE RUTAS ---
+Rutas Operativas         : 4
+Distancia Total Estimada : 120 Km
+Basura Total Recolectada : 13290 Kg
+
+Desglose de Kilos por Ruta:
+- Ruta 'Estandar' : 3090 Kg
+- Ruta 'Express' : 1200 Kg
+- Ruta 'Larga' : 6800 Kg
+- Ruta 'Ruta del Sur' : 2200 Kg

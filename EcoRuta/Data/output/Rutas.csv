@@ -1,0 +1,5 @@
+Id,Nombre,DistanciaKm,PuntosIDs
+100,Estandar,20,1|4|7
+200,Express,10,15
+300,Larga,60,3|6|9|11|14
+400,Ruta del Sur,30,2|5
