@@ -32,7 +32,7 @@ namespace EcoRutaData
                     Validadores.Leer("Zona: ", out zona);
                     Validadores.Leer("Capacidad(kg): ", out capacidadkg);
                     Validadores.Leer("Frecuencia: ", out frecuencia);
-                    Validadores.Leer("¿Punto Activo?(S/N)", out activo);
+                    Validadores.Leer("¿Punto Activo?(S/N) ", out activo);
                     puntos1[i] = new PuntoRecoleccion(id, zona, capacidadkg, frecuencia, activo);
                 }
 
@@ -204,9 +204,7 @@ namespace EcoRutaData
                 int numerodepuntos = 0;
                 int id;
                 string nombre;
-
-
-                Console.WriteLine($"\n--- Ruta #{i + 1} ---");
+       
                 Validadores.Leer("ID Ruta: ", out id);
                 Validadores.Leer("Nombre Ruta: ", out nombre);
                 double umbralEcoAmigable = 40.0;
